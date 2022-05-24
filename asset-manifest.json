@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guzelgiy-logo/static/css/main.b7bea18c.css",
+    "main.js": "/guzelgiy-logo/static/js/main.54274781.js",
+    "static/js/787.70b94e04.chunk.js": "/guzelgiy-logo/static/js/787.70b94e04.chunk.js",
+    "static/media/logo.jpeg": "/guzelgiy-logo/static/media/logo.bb2ebe3cdb01a5067aba.jpeg",
+    "index.html": "/guzelgiy-logo/index.html",
+    "main.b7bea18c.css.map": "/guzelgiy-logo/static/css/main.b7bea18c.css.map",
+    "main.54274781.js.map": "/guzelgiy-logo/static/js/main.54274781.js.map",
+    "787.70b94e04.chunk.js.map": "/guzelgiy-logo/static/js/787.70b94e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bea18c.css",
+    "static/js/main.54274781.js"
+  ]
+}
