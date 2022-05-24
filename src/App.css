@@ -1,0 +1,19 @@
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 150px;
+  height: 300px;
+}
+
+.nav{
+  margin-left: 450px;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.about{
+  padding-top: 110px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
